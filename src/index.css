@@ -1,0 +1,27 @@
+.header h1 {
+  font-size: 100px;
+}
+.main-page{
+  max-width: 600px;
+  margin: 0 auto;
+  width: 100%;
+}
+.card {
+  background-color: aliceblue;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 15px;
+  border: 1px solid #ccc;
+}
+
+.card-name {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 20px auto;
+}
+
+.card-image {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
